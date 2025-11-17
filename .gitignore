@@ -30,3 +30,5 @@ build/
 .idea/
 
 # Public folder: track files
+
+solution.js
