@@ -46,3 +46,15 @@ const jsonData = JS0n.stringify(data);
 JSON --> JSObject
 
 const data = JS0n.parse(jsonData)
+
+
+
+FORMATTING API REQUEST - ENDPOINTS, PATH PARAMETERS AND QUERY PARAMETERS
+
+Api Endpoint - BaseURL/Endpoint
+
+Query Parameters - BaseURL/Endpoint?query=value
+
+Multiple Query Parameters - BaseURL/Endpoint?query=value&query2=value
+
+Path Parameters - BaseURL/Endpoint/{path-parameter}
