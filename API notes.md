@@ -58,3 +58,14 @@ Query Parameters - BaseURL/Endpoint?query=value
 Multiple Query Parameters - BaseURL/Endpoint?query=value&query2=value
 
 Path Parameters - BaseURL/Endpoint/{path-parameter}
+
+
+-------------------
+
+API AUTHENTICATION - authenticating yourself with the API provider.
+
+Tiers
+No Authentication
+Basic Authentication - provide a username and password to the Api provider.
+Api Key Authorisation - 
+Token Based Authentication
